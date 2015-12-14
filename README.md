@@ -2,11 +2,14 @@
 
 ## Exploratory Data Analysis - Project 1
 
-### Find 8 files: plot1.R, plot2.R, plot3.R, plot4.R, which contain the scripts
+### Contents
+Find 8 files: plot1.R, plot2.R, plot3.R, plot4.R, which contain the scripts
 for creating plots plot1.png, plot2.png, plot3.png, and plot4.png, respectively.
-### The scripts assume that you have already read in the data file household_power_consumption.txt and
+### Assumptions
+The scripts assume that you have already read in the data file household_power_consumption.txt and
 have set your working directory
-### The scripts read in the entire file, so if that causes a space issue for you
+### Caveat
+The scripts read in the entire file, so if that causes a space issue for you
 consider that before running the scripts
 
 ## Introduction
